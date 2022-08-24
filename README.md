@@ -1,6 +1,6 @@
 ## Spherical mobile robot project
 
-The control system of the robot as well as remote control are based on an AVR ATmega328P microcontrollers. <\br> <\br>
+The control system of the robot as well as remote control are based on an AVR ATmega328P microcontrollers.
 
 The project integrates:
 - PWM control of motors,
