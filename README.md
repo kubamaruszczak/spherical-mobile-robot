@@ -1,1 +1,1 @@
-# spherical-mobile-robot
+# Spherical mobile robot project
