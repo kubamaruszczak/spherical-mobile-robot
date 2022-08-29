@@ -10,3 +10,6 @@ The project integrates:
 - remote control using a joystick and two radio modules,
 - serial communication using I2C and SPI interfaces,
 - monitoring of Li-Po battery voltage.
+
+[Check how robot looks like!](https://www.linkedin.com/feed/update/urn:li:activity:6899040866275536896/)
+
