@@ -1,4 +1,4 @@
-## Spherical mobile robot project
+## Spherical mobile robot project 🤖
 
 The control system of the robot as well as remote control are based on an AVR ATmega328P microcontrollers.
 
