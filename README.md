@@ -11,5 +11,4 @@ The project integrates:
 - serial communication using I2C and SPI interfaces,
 - monitoring of Li-Po battery voltage.
 
-[Check how robot looks like!](https://www.linkedin.com/feed/update/urn:li:activity:6899040866275536896/)
-
+[Check how the robot looks like!](https://www.linkedin.com/feed/update/urn:li:activity:6899040866275536896/)
